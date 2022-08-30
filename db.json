@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "RAMISETTY",
+      "username": "0598ashok@gmail.com",
+      "email": "0598ashok@gmail.com",
+      "phone": "9505209760",
+      "website": "www.ashok.com",
+      "Age": "16",
+      "id": 1
+    },
+    {
+      "name": "Dinesh",
+      "username": "dinesh",
+      "email": "dinesh@gmail.com",
+      "phone": "9999999999",
+      "website": "dinesh.in",
+      "Age": "29",
+      "id": 2
+    },
+    {
+      "name": "Suresh",
+      "username": "suresh",
+      "email": "suresh@gmail.com",
+      "phone": "9856985985",
+      "website": "",
+      "Age": "28",
+      "id": 3
+    },
+    {
+      "name": "sashi",
+      "username": "sashi",
+      "email": "sashi@gmail.com",
+      "phone": "987456698745",
+      "website": "",
+      "Age": "95",
+      "id": 4
+    },
+    {
+      "name": "koushik",
+      "username": "koushik",
+      "email": "koushik@gmail.com",
+      "phone": "78965412330",
+      "website": "",
+      "Age": "105",
+      "id": 5
+    }
+  ]
+}
